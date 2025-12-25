@@ -1,4 +1,4 @@
-🛡️ C# Malware & Antivirus GUI Simulation
+***🛡️ C# Malware & Antivirus GUI Simulation
 Bu proje, siber güvenlik eğitim süreçlerinde zararlı yazılım mantığını ve süreç yönetimini (Process Management) görselleştirmek amacıyla geliştirilmiş bir GUI (Görsel Arayüz) simülasyonudur. Proje, konsol ekranı kullanmadan tamamen arka plan thread'leri ve Windows Form üzerinden çalışır.
 
 🚀 Öne Çıkan Özellikler
