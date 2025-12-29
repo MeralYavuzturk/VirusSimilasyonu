@@ -1,5 +1,6 @@
 ## 🛡️ C# Virüs & Antivirus 
 #### Bu proje, siber güvenlik eğitim süreçlerinde zararlı yazılım mantığını ve süreç yönetimini (Process Management) görselleştirmek amacıyla geliştirilmiş bir GUI (Görsel Arayüz) simülasyonudur. Proje, konsol ekranı kullanmadan tamamen arka plan thread'leri ve Windows Form üzerinden çalışır.
+### Çalıştırılabilir zip dosyası linki: https://github.com/MeralYavuzturk/VirusSimilasyonu/releases/tag/v1.0.0
 
 ### 🚀 Öne Çıkan Özellikler
 * Tamamen Görsel Arayüz (GUI): Siyah konsol ekranı olmadan, profesyonel bir Windows Uygulaması (Windows Application) olarak çalışır.
